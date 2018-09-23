@@ -1,0 +1,52 @@
+nav{
+  background-color: black;
+  color: white;
+}
+
+img{
+  image-orientation: from-image;
+}
+
+.jumbotron{
+  color: aliceblue;
+  background-color: fuchsia;
+}
+
+body{
+  padding-top: 70px;
+  background-color: black;
+}
+
+.navbar-light .navbar-brand{
+  color: aliceblue;
+}
+
+.city{
+  border: 2px solid blue;
+  background-color: white;
+  color: pink;
+  font-size: 100px;
+  padding: 15px;
+  border-radius: 200px;
+  font-family: Megrim;
+}
+.city2{
+  background-color: azure;
+  color: black;
+  font-size: 90px;
+  padding: 5px;
+  font-family: Philosopher;
+  border: 2px solid blue;
+  border-radius: 500px;
+}
+
+.city3{
+  background-color: blue;
+  color: coral;
+  font-size: 90px;
+  padding: 5px;
+  font-family: Give-You-Glory;
+  margin-left: 30px;
+  border: 2px solid blue;
+  border-radius: 800px;
+}
